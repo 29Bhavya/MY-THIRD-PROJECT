@@ -1,0 +1,78 @@
+body{
+    height: 100%;
+    margin: 5%;
+    font size:16px;
+    font font-family:"lato",sans-serif;
+    font weight:400;
+    color:#666;
+}
+
+.first{
+    background-color: rgb(65, 62, 62);
+    height: 40px;
+    width: 250px;
+    margin-left: 30%;
+    margin-top: 40%;
+    padding: 1%;
+}
+.seventh{
+    background-color: rgb(65, 62, 62);
+    height: 40px;
+    width: 250px;
+    margin-left: 30%;
+    top: 40%;
+    padding: 1%;
+}
+.text{
+    color: rgb(248, 243, 243);
+    font-size:25px;
+    text-align: center;
+}
+.second,.fourth,.sixth {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.fourth{
+    background-color: rgb(88, 88, 88);
+    color: white;
+    width: 450px;
+    
+}
+.sixth{
+    background-color: rgb(88, 88, 88);
+    color: white;
+    width: 450px;
+    
+}
+h1{
+    font-weight: 100;
+    text-align: center;
+}
+.start{
+    background-image: url(../pics/mountain.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height:400px;
+    
+}
+.middle1{
+    background-image: url(../pics/jungle.jpg);
+    min-height: 400px;
+    
+}
+.middle2{
+    background-image: url(../pics/trees.jpg);
+    min-height: 400px;
+    
+}
+.end{
+    background-image: url(../pics/mountain.jpg);
+     min-height: 400px;
+}
+.middle1,.middle2,.end{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
